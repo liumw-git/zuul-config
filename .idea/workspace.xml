@@ -142,7 +142,7 @@
       <workItem from="1566726466445" duration="2971000" />
       <workItem from="1567216615359" duration="1191000" />
       <workItem from="1567306225526" duration="1254000" />
-      <workItem from="1577628416683" duration="785000" />
+      <workItem from="1577628416683" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="添加mysql.java">
       <created>1566726609901</created>
@@ -200,11 +200,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577628662871</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;提交&quot;">
+      <created>1577629341890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577629341890</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6201000" />
+    <option name="totallyTimeSpent" value="6758000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,9 +233,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32893288" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.4920635" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.4920635" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5714286" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5714286" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26072386" />
