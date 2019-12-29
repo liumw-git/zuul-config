@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1716d9cf-fa51-430f-9ec8-b04812fe5d9a" name="Default" comment="" />
+    <list default="true" id="1716d9cf-fa51-430f-9ec8-b04812fe5d9a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +142,7 @@
       <workItem from="1566726466445" duration="2971000" />
       <workItem from="1567216615359" duration="1191000" />
       <workItem from="1567306225526" duration="1254000" />
-      <workItem from="1577628416683" duration="537000" />
+      <workItem from="1577628416683" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="添加mysql.java">
       <created>1566726609901</created>
@@ -202,7 +204,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5953000" />
+    <option name="totallyTimeSpent" value="6201000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
